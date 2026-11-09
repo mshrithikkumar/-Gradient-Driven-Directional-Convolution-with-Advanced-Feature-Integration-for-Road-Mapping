@@ -1,0 +1,2 @@
+# -Gradient-Driven-Directional-Convolution-with-Advanced-Feature-Integration-for-Road-Mapping
+Developed a deep learning-based approach for road extraction from high-resolution satellite images. Integrated gradient-driven directional convolution with advanced feature integration techniques to improve road feature representation. Applied image preprocessing and ml techniques to enhance road detection accuracy and information extraction.
